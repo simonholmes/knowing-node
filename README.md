@@ -1,7 +1,7 @@
 Knowing Node
 ============
 
-This repo holds the code files from my Knowing Node tutorials on Node.js and associated technologies.
+This repo holds the code files from my [Knowing Node tutorials on Node.js](http://theholmesoffice.com/category/knowing-node/) and associated technologies.
 
 testpage
 --------
