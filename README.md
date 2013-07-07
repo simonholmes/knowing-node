@@ -22,3 +22,8 @@ testpage-mongoose
 -----------------
 
 Used in [Mongoose and Node.js tutorial](http://theholmesoffice.com/mongoose-and-node-js-tutorial/)
+
+testpage-express
+-----------------
+
+Used in [Introducing the Express.js framework for node.js](http://theholmesoffice.com/express-js-framework-node-js/)
